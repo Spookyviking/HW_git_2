@@ -36,8 +36,6 @@
 
 ## Как настроить свою среду разработки ?
 
-Требуется [Скачать](https://github.com/Spookyviking/HW_git_2/blob/test/.gitconfig)
-
 Выберите удобный для вас редактор кода — IDE. [Настройте](https://docs.github.com/ru/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account?platform=linux) доступ к репозиторию по ключу. Также можно [скачать](https://github.com/Spookyviking/HW_git_2/blob/test/.gitconfig) .gitconfig, заменив имя пользователя и почту на свои.
 
 
